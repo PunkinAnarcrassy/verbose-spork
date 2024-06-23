@@ -1,0 +1,12 @@
+* @google/generative-ai-admin
+
+# demos/palm/web/talking-character
+# demos/palm/web/mood-food
+# demos/palm/web/travel-planner
+# demos/palm/web/list-it
+# demos/palm/web/quick-prompt
+# demos/palm/web/textfx
+examples/gemini/python/docs-agent @nickvander @rundong08 @Meggin @kyolee415
+demos/palm/node/pipet-code-agent @joefernandez @shilpakancharla @markmcd
+
+site/ @google/generative-ai-site-team
